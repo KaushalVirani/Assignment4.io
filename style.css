@@ -1,0 +1,27 @@
+h1 {
+	color: #E6E6FA;
+	text-align: center;
+}
+
+#products {
+	color: #0890BB;
+	font-family: 'Dela Gothic One', cursive;
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Roboto Slab', serif;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+body {
+	background-color: #FFFFF0;
+}
+#map {
+  height: 100%;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,32 @@
+[
+        {
+            "productTitle" : "Home mushroom farm",
+            "productDescription" : "Now you can grow your own fungus right at home—and not in between your toes!",
+            "productImage": "https://i2.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/81WCBll2QvL._SL1500_.jpg",
+            "productPrice" : "$14.99"
+        },
+        {   
+            "productTitle": "Desktop Refrigerator",
+            "productDescription": "Now when you say you need a cold one, you can mean it literally, with one (1) single refrigerated beverage at your fingertips.",
+            "productImage": "https://i0.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/510g-cwJNBL.jpg",
+            "productPrice": "$1054.09"
+        },
+        {
+            "productTitle": "A Zombie Chocolate Bunny",
+            "productDescription": "The only thing better than a chocolate Easter bunny is a chocolate Easter bunny with an insatiable thirst for blood.",
+            "productImage": "https://i0.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/zombie-chocolate-bunny.jpeg?",
+            "productPrice": "$10.99"
+        },
+        {
+            "productTitle": "Surf and Turf",
+            "productDescription": "For most people, surf and turf is something you might order at an expensive restaurant. For those who prioritize convenience over all things, it's a completely normal addition to your Amazon cart.",
+            "productImage": "https://i0.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/surf-and-turf.jpg",
+            "productPrice": "$44.99"
+        },
+        {
+            "productTitle": "A turkey hat",
+            "productDescription": "While most people don't typically dress up for Thanksgiving, this charming turkey hat seems worth making an exception for.",
+            "productImage": "https://i1.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/turkey-hat.jpeg",
+            "productPrice": "$7.99"
+        }
+]
